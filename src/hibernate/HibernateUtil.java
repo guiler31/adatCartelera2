@@ -1,3 +1,4 @@
+package hibernate;
 
 
 import org.hibernate.cfg.Configuration;
